@@ -5,7 +5,7 @@ function Expensewallet() {
   return (
     <div className="expbody">
       Expense:500
-      <button>Add Expense</button>
+      <button className="Button2">Add Expense</button>
     </div>
   );
 }
